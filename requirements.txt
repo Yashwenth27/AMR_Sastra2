@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+mlxtend
+gdown
+streamlit-navigation-bar
